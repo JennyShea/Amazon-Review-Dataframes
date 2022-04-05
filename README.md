@@ -1,5 +1,5 @@
-# big-data-challenge
-Amazon Product Reviews
+#Amazon Review Dataframes
+
 
 Use furnished schema to create tables in an RDS database.
 
