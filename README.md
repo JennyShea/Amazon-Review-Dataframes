@@ -14,6 +14,7 @@ For each notebook (one dataset per notebook), complete the following:
 
 
 Count the number of records (rows) in the dataset.
+![image](https://user-images.githubusercontent.com/86893003/161842029-86db1c10-5717-4f8f-ac93-e8090f82509c.png)
 
 
 
